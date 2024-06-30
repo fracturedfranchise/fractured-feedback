@@ -1,0 +1,47 @@
+name: Issue Report
+description: Create an issue report for Oaklands.
+title: "[BUG]: "
+labels: ["bug"]
+projects: ["oaklands-issues/main"]
+body:
+  - type: input
+    id: username
+    attributes:
+      label: Roblox Username
+      description: What is your Roblox username?
+      placeholder: ex. OnlyTwentyCharacters
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: What version did this issue occur in?
+      description: This can be found on the bottom left of your screen in-game
+      placeholder: "0.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Describe the issue in detail.
+      description: This could be reproduction steps or a better description of what is happening (ideally, please provide both if possible).
+    validations:
+      required: false
+  - type: textarea
+    id: media
+    attributes:
+      label: Provide some images / videos of the issue in action.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Before Submitting
+      description: Please check the boxes below before submitting.
+      options:
+        - label: I have confirmed that nobody else reported this issue.
+          required: true
+        - label: The details of this report are legitimate.
+          required: true
+        - label: I understand that I cannot be reimbursed here for in-game content I have lost.
+          required: true
