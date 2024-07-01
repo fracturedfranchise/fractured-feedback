@@ -1,8 +1,8 @@
 name: Issue Report
-description: Create an issue report for Oaklands.
+description: Create an issue report for Fractured Franchise.
 title: "[BUG]: "
 labels: ["bug"]
-projects: ["oaklands-issues/main"]
+projects: ["fractured-feedback/main"]
 body:
   - type: input
     id: username
