@@ -1,8 +1,8 @@
 name: Ban Appeal
-description: Appeal a ban for Oaklands.
+description: Appeal a ban for Fractured Franchise.
 title: "[BAN APPEAL]: {username}"
 labels: ["appeal"]
-projects: ["oaklands-issues/main"]
+projects: ["fractured-feedback/main"]
 body:
   - type: input
     id: username
