@@ -1,4 +1,4 @@
-![banner](assets/banner.png)
+![banner](assets/banner1.png)
 ## Fractured Franchise Issue Reporting
 This repo allows for quick reporting of issues in Fractured Franchise that get directly forwared to the developers. You can view all currently opened issues by going to the [issues tab](https://github.com/fracturedfranchise/fractured-feedback/issues).
 
