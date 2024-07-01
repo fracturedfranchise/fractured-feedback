@@ -1,6 +1,6 @@
 ![banner](assets/banner1.png)
 ## Fractured Franchise Issue Reporting
-This repo allows for quick reporting of issues in Fractured Franchise that get directly forwared to the developers. You can view all currently opened issues by going to the [issues tab](https://github.com/fracturedfranchise/fractured-feedback/issues).
+This repo allows for quick reporting of issues in Fractured Franchise that get directly forwarded to the developers. You can view all currently opened issues by going to the [issues tab](https://github.com/fracturedfranchise/fractured-feedback/issues).
 
 ### Creating Issues
 It is advised before creating any issue regardless it being a bug report or suggestion that you make sure that someone else hasn't already created it.
@@ -11,4 +11,4 @@ Wanting to appeal a ban? Use this template instead of one of the issue / qol tem
 - [Open Ban Appeal template](https://github.com/fracturedfranchise/fractured-feedback/issues/new?assignees=&labels=appeal&projects=fractured-franchise-issues%2Fmain&template=APPEAL.yaml&title=%5BBAN+APPEAL%5D%3A+%7Busername%7D)
 
 ### Feedback Discord
-Want to give feedback on things you think could be better? Join the [official Typical Developers](https://discord.gg/fractured) server, give yourself the Fractured Franchise role, and submit your feedback in the `#oaksuggestions` channel.
+Want to give feedback on things you think could be better? Join the [official Spawnpoint](https://discord.gg/fractured) Discord, and submit your feedback in the `#💭┇suggestions` channel.
